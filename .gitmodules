@@ -1,0 +1,3 @@
+[submodule "GitServer_Application/source/common"]
+	path = GitServer_Application/source/common
+	url = https://github.com/rainING1/commonProject01
