@@ -4,3 +4,4 @@ GitServer
 2020.02.12 Tag Branch Tag
 
 - Tag 1.8.1.0 erstellt
+- Commit remote
